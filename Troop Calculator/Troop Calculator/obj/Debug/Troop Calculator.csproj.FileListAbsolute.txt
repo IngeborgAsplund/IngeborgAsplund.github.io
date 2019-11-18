@@ -1,0 +1,10 @@
+C:\Users\Ingeborg\Documents\Programming\programming in C# 2017\Projectwork\Troop Calculator\Troop Calculator\bin\Debug\Troop Calculator.exe.config
+C:\Users\Ingeborg\Documents\Programming\programming in C# 2017\Projectwork\Troop Calculator\Troop Calculator\bin\Debug\Troop Calculator.exe
+C:\Users\Ingeborg\Documents\Programming\programming in C# 2017\Projectwork\Troop Calculator\Troop Calculator\bin\Debug\Troop Calculator.pdb
+C:\Users\Ingeborg\Documents\Programming\programming in C# 2017\Projectwork\Troop Calculator\Troop Calculator\obj\Debug\Troop Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ingeborg\Documents\Programming\programming in C# 2017\Projectwork\Troop Calculator\Troop Calculator\obj\Debug\Troop_Calculator.Mainform.resources
+C:\Users\Ingeborg\Documents\Programming\programming in C# 2017\Projectwork\Troop Calculator\Troop Calculator\obj\Debug\Troop_Calculator.Properties.Resources.resources
+C:\Users\Ingeborg\Documents\Programming\programming in C# 2017\Projectwork\Troop Calculator\Troop Calculator\obj\Debug\Troop Calculator.csproj.GenerateResource.Cache
+C:\Users\Ingeborg\Documents\Programming\programming in C# 2017\Projectwork\Troop Calculator\Troop Calculator\obj\Debug\Troop Calculator.exe
+C:\Users\Ingeborg\Documents\Programming\programming in C# 2017\Projectwork\Troop Calculator\Troop Calculator\obj\Debug\Troop Calculator.pdb
+C:\Users\Ingeborg\Documents\Programming\programming in C# 2017\Projectwork\Troop Calculator\Troop Calculator\obj\Debug\Troop_Calculator.MichelleBio1.resources
