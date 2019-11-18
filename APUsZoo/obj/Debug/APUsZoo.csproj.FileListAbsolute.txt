@@ -1,0 +1,12 @@
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\bin\Debug\APUsZoo.exe.config
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\bin\Debug\APUsZoo.exe
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\bin\Debug\APUsZoo.pdb
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\obj\Debug\APUsZoo.csprojResolveAssemblyReference.cache
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\obj\Debug\APUsZoo.MainForm.resources
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\obj\Debug\APUsZoo.Properties.Resources.resources
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\obj\Debug\APUsZoo.csproj.GenerateResource.Cache
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\obj\Debug\APUsZoo.csproj.CoreCompileInputs.cache
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\obj\Debug\APUsZoo.exe
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\obj\Debug\APUsZoo.pdb
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\obj\Debug\APUsZoo.EmplyeeManagementForm.resources
+D:\Documents D\Programming 2018\APUsZoo\APUsZoo\obj\Debug\APUsZoo.RecipeForm.resources
