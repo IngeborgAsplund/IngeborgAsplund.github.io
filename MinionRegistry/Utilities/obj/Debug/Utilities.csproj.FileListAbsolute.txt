@@ -1,0 +1,6 @@
+D:\Documents D\Programming III 2018\MinionRegistry\Utilities\bin\Debug\Utilities.dll
+D:\Documents D\Programming III 2018\MinionRegistry\Utilities\bin\Debug\Utilities.pdb
+D:\Documents D\Programming III 2018\MinionRegistry\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+D:\Documents D\Programming III 2018\MinionRegistry\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Documents D\Programming III 2018\MinionRegistry\Utilities\obj\Debug\Utilities.dll
+D:\Documents D\Programming III 2018\MinionRegistry\Utilities\obj\Debug\Utilities.pdb
