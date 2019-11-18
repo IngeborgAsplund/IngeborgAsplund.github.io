@@ -1,0 +1,35 @@
+﻿<Window x:Name="ExperimetnForm" x:Class="Threading_project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Threading_project"
+        mc:Ignorable="d"
+        Title="My experiment" Height="568.4" Width="800" FontSize="14">
+    <Grid x:Name="Ecperiment" Height="538" Margin="0,0,-0.4,0" VerticalAlignment="Top">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF1AB754" Offset="0"/>
+                <GradientStop Color="#FF71DCC3" Offset="0.789"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <GroupBox Header="RandomStory" HorizontalAlignment="Left" Height="461" Margin="27,37,0,0" VerticalAlignment="Top" Width="350">
+            <ListBox x:Name="lstStory" x:FieldModifier="public" HorizontalAlignment="Left" Height="375" Margin="18,10,0,0" VerticalAlignment="Top" Width="300" Background="#FFEEDFDF"/>
+        </GroupBox>
+        <GroupBox Header="ImageDisplay" HorizontalAlignment="Left" Height="461" Margin="396,37,0,0" VerticalAlignment="Top" Width="350">
+            <Canvas x:Name="can_Shape" x:FieldModifier="public" HorizontalAlignment="Left" Height="375" Margin="10,10,0,0" VerticalAlignment="Top" Width="314" Background="#FFEEDFDF">
+                <Image x:Name="imgRotation" Height="177" Canvas.Left="44" Canvas.Top="78" Width="215" Source="pack://siteoforigin:,,,/Resources/Triangle.png" RenderTransformOrigin="0.513,0.591">
+                    <Image.RenderTransform>
+                        <RotateTransform CenterX="0" CenterY="0" Angle="{Binding Path= Angle}" />
+                    </Image.RenderTransform>
+                </Image>
+            </Canvas>
+        </GroupBox>
+        <Button x:Name="btn_StopStory" Content="Stop " HorizontalAlignment="Left" Margin="226,459,0,0" VerticalAlignment="Top" Width="100" Click="StopTelling_Click"/>
+        <Button x:Name="btn_DrawGraphics" Content="Display graphics" HorizontalAlignment="Left" Margin="421,459,0,0" VerticalAlignment="Top" Width="137" Click="DrawGraphics_Click"/>
+        <Button x:Name="btn_StopDrawGraphics" Content="Stop" HorizontalAlignment="Left" Margin="589,459,0,0" VerticalAlignment="Top" Width="97" Click="StopDrawing_Click"/>
+        <Button x:Name="btnQuit" Content="Quit" HorizontalAlignment="Left" Margin="640,503,0,0" VerticalAlignment="Top" Width="106" Height="25" Click="Quit_Click"/>
+        <Button x:Name="btn_StartStory" Content="Start Story" HorizontalAlignment="Left" Margin="58,459,0,0" VerticalAlignment="Top" Width="137" Click="StartStory_Click"/>
+
+    </Grid>
+</Window>

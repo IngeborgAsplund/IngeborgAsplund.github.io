@@ -1,0 +1,17 @@
+D:\Documents D\Programming III 2018\Threading project\Threading project\bin\Debug\Threading project.exe.config
+D:\Documents D\Programming III 2018\Threading project\Threading project\bin\Debug\Threading project.exe
+D:\Documents D\Programming III 2018\Threading project\Threading project\bin\Debug\Threading project.pdb
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\Threading project.csprojAssemblyReference.cache
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\App.g.cs
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\Threading project_MarkupCompile.cache
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\Threading project_MarkupCompile.lref
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\Threading project.g.resources
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\Threading_project.Properties.Resources.resources
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\Threading project.csproj.GenerateResource.cache
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\Threading project.csproj.CoreCompileInputs.cache
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\Threading project.exe
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\Threading project.pdb
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\MainWindow.g.cs
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\MainWindow.baml
+D:\Documents D\Programming III 2018\Threading project\Threading project\bin\Debug\Resources\Triangle.png
+D:\Documents D\Programming III 2018\Threading project\Threading project\obj\Debug\Threading project_Content.g.cs
